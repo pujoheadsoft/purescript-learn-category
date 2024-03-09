@@ -18,9 +18,11 @@ to generate this file without the comments in this block.
   , "effect"
   , "free"
   , "maybe"
+  , "numbers"
   , "prelude"
   , "spec"
   , "strings"
+  , "undefined"
   ]
 , packages = ./packages.dhall
 , sources = [ "src/**/*.purs", "test/**/*.purs" ]
